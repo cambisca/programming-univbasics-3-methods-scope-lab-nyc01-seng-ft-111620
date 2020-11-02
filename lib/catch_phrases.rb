@@ -9,6 +9,6 @@ def toadstool
 end
 
 def link 
-  danger = ""
-  puts 
+  danger = "It's Dangerous To Go Alone! Take This."
+  puts danger
 end 
